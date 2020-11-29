@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello there, 👋 I’m Maneesh Reddy a passionate Privacy and Cyber Security Enthusiast.
+### I also go by Morty :sunglasses:
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Maneesh3/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maneesh3)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](maneesh3.github.io)
 <!--
 **Maneesh3/Maneesh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Maneesh's github stats](https://github-readme-stats.vercel.app/api?username=Maneesh3&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maneesh3&hide=javascript,css&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
