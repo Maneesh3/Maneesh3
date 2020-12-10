@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 -->
 ![Maneesh's github stats](https://github-readme-stats.vercel.app/api?username=Maneesh3&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maneesh3&hide=javascript,css&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maneesh3&hide=javascript,css,scss,Less&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
