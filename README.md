@@ -1,9 +1,9 @@
 ### Hello there, 👋 I’m Maneesh Reddy a passionate Privacy and Cyber Security Enthusiast.
 ### I also go by Morty :sunglasses:
 ***
-- 🔭 I’m currently working as an IT Operations Enginner.
+- 🔭 I’m currently working as an IT Operations Engineer.
 - 🌱 I’m currently learning Cybersecurity.
-- 👯 I’m looking to collaborate on open-source privacy enhancing projects/applicaitons.
+- 👯 I’m looking to collaborate on open-source privacy enhancing projects/applications.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If its Free, then something is Fishy 😎
 ***
