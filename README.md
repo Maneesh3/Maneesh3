@@ -1,4 +1,4 @@
-### Hello there, 👋 I’m Maneesh Reddy a passionate Privacy and Cyber Security Enthusiast.
+### Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Maneesh Reddy a passionate Privacy and Cyber Security Enthusiast.
 ### I also go by Morty :sunglasses:
 ***
 - 🔭 I’m currently working as an IT Operations Engineer.
